@@ -1,3 +1,12 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {
+    "afde31af-ce1a-4a4b-b8c1-6ab9961ad1e4": "947d74ed-549e-4536-ca31-08d89da40132",
+    "68062775-55b4-485b-8c88-f943ad787f8c": "9fbcae92-dc2c-4dc8-ca32-08d89da40132"
+  },
+  "testManagerBasePath": "https://tm-demo.uipath.com/",
+  "defaultProject": {
+    "id": "e25fc249-cfd7-45d9-81da-08d7e798f83a",
+    "name": "Evan Bruns",
+    "key": "EVAN"
+  }
 }
