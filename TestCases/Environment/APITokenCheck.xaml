@@ -77,7 +77,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="534,93" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;This is yet another change&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="534,93" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;This is a change&quot;]" />
     <uta:VerifyExpression KeepScreenshots="{x:Null}" ScreenshotsPath="{x:Null}" ContinueOnFailure="True" DisplayName="Verify Expression" Expression="True" sap:VirtualizedContainerService.HintSize="534,62" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" TakeScreenshotInCaseOfSucceedingAssertion="False" />
   </Sequence>
 </Activity>
